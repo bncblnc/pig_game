@@ -22,5 +22,5 @@ A cada jogada você vai rolar o dado, cada valor é somado ao seu total da rodad
 <div align="center">
     <a href="https://github.com/bncblnc"><img height="80" src="https://avatars.githubusercontent.com/u/108829137?v=4"></a>
    <br/><a href="https://www.linkedin.com/in/bncblnc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.twitch.tv/bb_chan_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
+
 </div>
